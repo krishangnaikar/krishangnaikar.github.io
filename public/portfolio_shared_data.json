@@ -1,23 +1,16 @@
 {
   "basic_info": {
-    "name": "Hare Krishna Rai",
+    "name": "Krishang Naikar",
     "titles": [
-      "Product Security",
-      "Secure Code Review",
-      "Pentester",
-      "Application Security",
-      "Bug Bounty Hunter"
+      "Cybersecurity Engineer",
+      "Python Developer",
+      "Entrepreneur"
     ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/harekrishnarai",
+        "url": "https://github.com/krishangnaikar",
         "class": "fab fa-github"
-      },
-      {
-        "name": "twitter",
-        "url": "https://www.twitter.com/harekrishna_rai",
-        "class": "fab fa-twitter"
       }
     ],
     "image": "myProfile1.jpg"
