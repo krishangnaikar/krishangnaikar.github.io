@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋🏻I'm Hare Krishna Rai. I am a passionate Security Guy with a strong background in electronics and communication engineering. With expertise in penetration testing, code review, and cloud security, I collaborate with developers to identify and fix vulnerabilities using Burpsuite, Checkmarx and other automation tools like Jenkins in the pipeline. In my free time, I enjoy listening to music, watching sci-fi movies, and reading books for personal growth. I'm constantly seeking new challenges and opportunities to grow in my career in cybersecurity. Thank you 💜",
+      "description": "👋🏻Hey there! I'm Krishang Naikar, a student at Orion High School. I have completed Udacity's AI Programming with Python Nanodegree program which was super interesting. I also finished Andrew Ng's Machine Learning course on Coursera - Ng is a professor at Stanford and a real expert in the field. I'm excited about learning all the new advancements happening in artificial intelligence and machine learning. These areas fascinate me and I pick up new concepts quickly. My goal is to one day work on cutting-edge AI and ML Computer Vision projects that really push the boundaries of what's possible. But for now, I'm focused on building a strong educational foundation and absorbing as much knowledge as I can.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,146 +10,8 @@
       }
     },
     "projects": [
-      {
-        "title": "e-Verify Certification Portal",
-        "startDate": "Jan 2021",
-        "description": "The EntwicklersX Certificate Verification Portal is a platform designed to host and verify certificates issued by EntwicklersX. It provides a secure and easy way for individuals and organizations to verify the authenticity of certificates. The portal streamlines the verification process, ensuring fast and accurate results.",
-        "images": [
-          "images/portfolio/verify/p3.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-django-plain",
-            "name": "Django"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Web Development"
-          },
-          {
-            "class": "devicon-amazonwebservices-plain",
-            "name": "AWS"
-          }
-        ]
-      },
-      {
-        "title": "Tittuji",
-        "startDate": "Mar 2022",
-        "description": "Tittuji is a telegram bot which sends the received messages from telegram to the user's email address. It is a simple bot which can be used to send messages from telegram to email.",
-        "images": [
-          "images/portfolio/Tittuji/Tittuji.png"
-        ],
-        "url": "https://github.com/harekrishnarai/Tittuji",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Appscript"
-          }
-        ]
-      },
-      {
-        "title": "Falspot, Datastax Hackathon",
-        "startDate": "Sept 2021",
-        "description": "Falspot is an android application that lets users pin their favourite location spots from the timelines and their Ola or uber cab rides.Falspot is an idea proposed for an App made with Flutter which relieves your pain from searching and locating the most frequently visited locations from Google Maps or any Maps Provider.Datastax Hackathon • App made with flutter to spot favourite locations. • Team project with Kumar Manglam and Hare Krishna Rai • Tech Stacks Used: Flutter, Dart, Astra DB Database as Backend • Ranked in Top 30 Quality Projects Worldwide.",
-        "images": [
-          "images/portfolio/hackathon/p1.png",
-          "images/portfolio/hackathon/p2.png"
-        ],
-        "url": "https://github.com/harekrishnarai/falspot",
-        "technologies": [
-          {
-            "class": "devicon-flutter-plain",
-            "name": "Flutter"
-          },
-          {
-            "class": "devicon-firebase-plain",
-            "name": "Firebase"
-          },
-          {
-            "class": "devicon-apache-plain",
-            "name": "AstraDB"
-          }
-        ]
-      }
     ],
     "experience": [
-      {
-        "company": "HighRadius",
-        "title": "Associate Product Security Engineer - I",
-        "years": "06.2023 - present",
-        "mainTech": [
-          "Secure Code Review",
-          "Penetration testing",
-          "Container Security"
-        ],
-        "technologies": [
-          "CxSAST",
-          "JAVA",
-          "Penetration testing",
-          "OWASP Top 10",
-          "Jenkins",
-          "Secure Code Review",
-          "Team Collaboration",
-          "BurpSuite",
-          "JFrog Xray",
-          "Checkmarx"
-        ]
-      },
-      {
-        "company": "HighRadius",
-        "title": "Product Security Intern",
-        "years": "09.2022 - 05.2023",
-        "mainTech": [
-          "Secure Code Review"
-        ],
-        "technologies": [
-          "CxSAST",
-          "JAVA",
-          "Penetration testing",
-          "OWASP Top 10",
-          "Jenkins",
-          "Secure Code Review",
-          "Team Collaboration",
-          "BurpSuite",
-          "Checkmarx",
-          "Black Box Testing"
-        ]
-      },
-      {
-        "company": "Gurugram Police",
-        "title": "Cybersecurity Summer Intern",
-        "years": "06.2022 - 07.2022",
-        "mainTech": [
-          "Cybersecurity"
-        ],
-        "technologies": [
-        "Cyber Forensics",
-        "Cyber Laws",
-        "Dark web",
-        "Crypto Currencies",
-        "Digital Footprints",
-        "Privacy Protection",
-        "Wireshark",
-        "BurpSuite",
-        "OWASP ZAP"
-        ]
-      },
-      {
-        "company": "Virtually Testing Foundation",
-        "title": "Cybersecurity Intern",
-        "years": "01.2021 - 03.2021",
-        "mainTech": [
-          "Cybersecurity"
-        ],
-        "technologies": [
-        "Penetration testing",
-        "OWASP Top 10",
-        "Container Security",
-        "Kubernetes",
-        "Communication",
-        "BurpSuite"
-        ]
-      }
+      
     ]
   }
