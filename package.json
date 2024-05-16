@@ -1,6 +1,6 @@
 {
-  "name": "krishang.me",
-  "homepage": "https://krishang.me/",
+  "name": "portfolio",
+  "homepage": "https://krishangnaikar.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
